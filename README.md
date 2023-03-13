@@ -23,6 +23,8 @@ This configuration is based off [Axarva](https://github.com/Axarva/dotfiles-2.0)
 
 THIS CONFIGURATION IS FOR ARCH LINUX ONLY!!! (might work for arch-based systems but untested).
 
+This rice is configured for dual monitors stacked vertically, However it should work with any layout as long as you are willing to configure the tint2conf to fix any graphical issues.
+
 
 ## Extra Packages
 
