@@ -42,5 +42,5 @@ This rice is configured for dual monitors stacked vertically, However it should 
 
 1. Go to Axarva's configuration linked in [Info](https://github.com/Alllusive/dotfiles-2.0/edit/main/README.md#info) and follow the "main" branch installation proccess.
 
-2. 
+2. *yet to be added*
 
