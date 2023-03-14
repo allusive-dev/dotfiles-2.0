@@ -40,7 +40,27 @@ This rice is configured for dual monitors stacked vertically, However it should 
 
 ## Installation
 
-1. Go to Axarva's configuration linked in [Info](https://github.com/Alllusive/dotfiles-2.0/edit/main/README.md#info) and follow the "main" branch installation proccess.
+If you just want to get my terminal here are the instructions:
 
-2. *yet to be added*
+1. Install kitty `sudo pacman -S kitty`
+
+2. Download this github repository or use `git clone https://github.com/Alllusive/dotfiles-2.0` (requires `git`)
+
+3. If downloaded from the repo, unzip the file.
+
+4. Copy the kitty folder to `~/.config`
+
+5. You should now have a `kitty` folder in `~/.config`
+
+6. Install picom `sudo pacman -S picom`
+
+7. Copy `picom.conf` from dotfiles-2.0/picom-simple into `~/.config`
+
+8. If you want window rounding, Open the file in a text editor and uncomment `corner-radius = 12;`
+
+9. Using your window/desktop managers config, setup to run `picom` at startup.
+
+10. Make sure to change your default terminal for your WM/DE to kitty.
+
+11. Enjoy!
 
