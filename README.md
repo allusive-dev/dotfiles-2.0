@@ -52,15 +52,17 @@ If you just want to get my terminal here are the instructions:
 
 5. You should now have a `kitty` folder in `~/.config`
 
-6. Install picom `sudo pacman -S picom`
+6. If you have your own font, you will need to edit the kitty.conf with your own font, otherwise make sure to install JetBrains Mono with `sudo pacman -S ttf-jetbrains-mono`
 
-7. Copy `picom.conf` from dotfiles-2.0/picom-simple into `~/.config`
+7. Install picom `sudo pacman -S picom`
 
-8. If you want window rounding, Open the file in a text editor and uncomment `corner-radius = 12;`
+8. Copy `picom.conf` from dotfiles-2.0/picom-simple into `~/.config`
 
-9. Using your window/desktop managers config, setup to run `picom` at startup.
+9. If you want window rounding, Open the file in a text editor and uncomment `corner-radius = 12;`
 
-10. Make sure to change your default terminal for your WM/DE to kitty.
+10. Using your window/desktop managers config, setup to run `picom` at startup.
 
-11. Enjoy!
+11. Make sure to change your default terminal for your WM/DE to kitty.
+
+12. Enjoy!
 
