@@ -56,7 +56,7 @@ If you just want to get my terminal here are the instructions:
 
 7. Install picom `sudo pacman -S picom`
 
-8. Copy `picom.conf` from dotfiles-2.0/picom-simple into `~/.config`
+8. Copy `picom.conf` from `dotfiles-2.0/picom-simple` into `~/.config`
 
 9. If you want window rounding, Open the file in a text editor and uncomment `corner-radius = 12;`
 
