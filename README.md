@@ -4,6 +4,14 @@ This project is the result of many hours of ricing to make the perfect Xmonad se
 
 (at least for my standards).
 
+NOTE:
+
+This does not contain a full install. I want my own install to be as peronal as possible since I put weeks into making this and learning how to configure everything. HOWEVER if you want something similar to mine please check out [Axarva](https://github.com/Axarva/dotfiles-2.0)s configuration which is what mine is based off.
+
+I have linked some files like my wallpaper, neofetch image, kitty and picom configurations. 
+
+There is a quick guide on how to setup your terminal like mine so feel free to check that out
+
 ## Index
 
 - [Screenshots](https://github.com/Alllusive/dotfiles-2.0/edit/main/README.md#screenshots)
