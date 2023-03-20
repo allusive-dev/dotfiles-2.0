@@ -25,6 +25,8 @@ There is a quick guide on how to setup your terminal like mine so feel free to c
 
 ## Screenshots
 ![desktop](https://user-images.githubusercontent.com/99632976/224847936-71419083-59f4-4f63-b3c5-4f332d624904.png)
+![finale of the desktops FULL](https://user-images.githubusercontent.com/99632976/226474866-cc6a4e7b-759b-4524-ad3a-a04ce7233100.png)
+
 
 ## Info
 This configuration is based off [Axarva](https://github.com/Axarva/dotfiles-2.0)s rice with quite a few alterations.
