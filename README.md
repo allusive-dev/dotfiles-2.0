@@ -4,6 +4,10 @@ This project is the result of many hours of ricing to make the perfect Xmonad se
 
 (at least for my standards).
 
+## UPDATE
+I am no longer using this setup so it will not be updated anymore.
+If you are intersted in my more updated setup please check out my other repository. [buttery-picom](https://github.com/allusive-dev/buttery-picom)
+
 NOTE:
 
 This does not contain a full install. I want my own install to be as peronal as possible since I put weeks into making this and learning how to configure everything. HOWEVER if you want something similar to mine please check out [Axarva](https://github.com/Axarva/dotfiles-2.0)s configuration which is what mine is based off.
